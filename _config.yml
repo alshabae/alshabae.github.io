@@ -23,7 +23,7 @@ repository               : "https://alshabae.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "Headshot.jpg"
   name             : "Abdulla Alshabanah"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate @ University of Southern California"
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/abdulla-alshabanah/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
