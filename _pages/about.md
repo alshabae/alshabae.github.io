@@ -26,3 +26,15 @@ I am a PhD candidate at the University of Southern California (USC) working with
 
 \* Equal contributions.
 
+# Teaching
+
+- USC EE557 TA: Computer Systems Architecture \(Spring 2021, Spring 2023, Fall 2023, Spring 2024 and Spring 2025\).
+- USC EE542 TA: Internet and Cloud Computing \(Fall 2024\).
+- KFUPM COE201 Instructor: Digital Logic Laboratory \(Spring 2017\).
+- KFUPM COE300 Co-Instructor: Principles of Computer Engineering Design \(Fall 2016\).
+
+# Mentorship
+
+- USC \[[CURVE](https://viterbiundergrad.usc.edu/research/curve/)\] \(Fall 2022 - Present\).
+- USC \[[VSI](https://viterbiundergrad.usc.edu/johnbrooksslaughtercenter/vsi/)\] \(Summer 2022, Summer 2024 and Summer 2025\).
+- USC \[[SHINE](https://viterbik12.usc.edu/summer-programs-4/)\] \(Summer 2024\).
