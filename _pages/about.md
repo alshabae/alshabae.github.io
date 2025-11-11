@@ -11,7 +11,7 @@ I am a PhD candidate at the University of Southern California (USC) working with
 
 # Publication Summary
 
-- **\[In review\]**: **A Alshabanah**, Y Yang and M Annavaram, “SAGERec: Sampling and Gating for Enhanced Long-Tail Item Recommendations”
+- **\[WSDM 2026\]**: **A Alshabanah**, Y Yang and M Annavaram, “SAGERec: Sampling and Gating for Enhanced Long-Tail Item Recommendations”
 - **\[EMNLP 2025\]**: **A Alshabanah** and M Annavaram, “Mind the Dialect: NLP Advancements Uncover Fairness Disparities for Arabic Users in Recommendation Systems”. \[[link]()\]
 - **\[ACM Trans. Recomm. Syst. 2025\]**: **A Alshabanah**, K Balasubramanian, E Markowitz, G Steeg and M Annavaram, “The Upside of Bias: Personalizing long-tail item recommendations with Biased Sampling” . \[[link]()\]
 - **\[RecSys 2025\]**: **A Alshabanah**\*, C Jiang*, and M Annavaram, “LEAF: Lightweight, Efficient, Adaptive and Flexible Embedding for Large-Scale Recommendation Models”. \[[link]()\]
