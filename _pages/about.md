@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the University of Southern California (USC) working with [Prof. Murali Annavaram](http://scip-lab.usc.edu/). I work on machine learning systems and applied machine learning, with a focus on recommendation systems. You can find more about my research in my [publicaton](https://alshabae.github.io//publications/) section and my [Google Scholar](https://scholar.google.com/citations?user=0kQ1-4oAAAAJ&hl=en).
+I am a PhD candidate at the University of Southern California (USC) working with [Prof. Murali Annavaram](http://scip-lab.usc.edu/). I work on machine learning systems and applied machine learning, with a focus on recommendation systems. I hold a B.S. in Computer Engineering from King Fahd University of Petroleum and Minerals (KFUPM), an M.S. in Computer Engineering, and an M.S. in Computer Science, both from the University of Southern California (USC). You can find more about my research in my [publicaton](https://alshabae.github.io//publications/) section and my [Google Scholar](https://scholar.google.com/citations?user=0kQ1-4oAAAAJ&hl=en).
 
 # Publication Summary
 
