@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Abdulla Alshabanah Homepage"
+title: "Abdulla Alshabanah"
 author_profile: true
 redirect_from: 
   - /about/
