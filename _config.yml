@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Abdulla Alshabanah Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Abdulla Alshabanah"
 description              : &description "PhD candidate @ University of Southern California"   # Update this with a general description of your site, this is the default if not overridden by a page
