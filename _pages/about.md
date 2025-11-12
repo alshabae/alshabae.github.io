@@ -28,10 +28,10 @@ I am a Ph.D. candidate at the University of Southern California (USC) working wi
 
 # Teaching
 
-- USC EE557 TA: Computer Systems Architecture \(Spring 2021, Spring 2023, Fall 2023, Spring 2024 and Spring 2025\).
-- USC EE542 TA: Internet and Cloud Computing \(Fall 2024\).
-- KFUPM COE201 Instructor: Digital Logic Laboratory \(Spring 2017\).
-- KFUPM COE300 Co-Instructor: Principles of Computer Engineering Design \(Fall 2016\).
+- **USC EE557 TA**: Computer Systems Architecture \(Spring 2021, Spring 2023, Fall 2023, Spring 2024 and Spring 2025\).
+- **USC EE542 TA**: Internet and Cloud Computing \(Fall 2024\).
+- **KFUPM COE201 Instructor**: Digital Logic Laboratory \(Spring 2017\).
+- **KFUPM COE300 Co-Instructor**: Principles of Computer Engineering Design \(Fall 2016\).
 
 # Mentorship
 
