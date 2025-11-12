@@ -35,6 +35,6 @@ I am a Ph.D. candidate at the University of Southern California (USC) working wi
 
 # Mentorship
 
-- USC \[[CURVE](https://viterbiundergrad.usc.edu/research/curve/)\] \(Fall 2022 - Present\).
-- USC \[[VSI](https://viterbiundergrad.usc.edu/johnbrooksslaughtercenter/vsi/)\] \(Summer 2022, Summer 2024 and Summer 2025\).
-- USC \[[SHINE](https://viterbik12.usc.edu/summer-programs-4/)\] \(Summer 2024\).
+- **USC \[[CURVE](https://viterbiundergrad.usc.edu/research/curve/)\]** \(Fall 2022 - Present\).
+- **USC \[[VSI](https://viterbiundergrad.usc.edu/johnbrooksslaughtercenter/vsi/)\]** \(Summer 2022, Summer 2024 and Summer 2025\).
+- **USC \[[SHINE](https://viterbik12.usc.edu/summer-programs-4/)\]** \(Summer 2024\).
