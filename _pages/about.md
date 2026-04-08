@@ -11,6 +11,7 @@ I am a Ph.D. candidate at the University of Southern California (USC) working wi
 
 # Publication Summary
 
+- **\[SIGIR 2026\]**: **A Alshabanah**\*, C Jiang\*, H Zarch,  K Balasubramanian and M Annavaram, “HuffmanEmbed: Using Huffman Coding for Embedding Table Compression in Deep Learning Recommendation Models”.
 - **\[WSDM 2026\]**: **A Alshabanah**, Y Yang and M Annavaram, “SAGERec: Sampling and Gating for Enhanced Long-Tail Item Recommendations”. \[[link](https://dl.acm.org/doi/10.1145/3773966.3778004)\]
 - **\[EMNLP 2025\]**: **A Alshabanah** and M Annavaram, “Mind the Dialect: NLP Advancements Uncover Fairness Disparities for Arabic Users in Recommendation Systems”. \[[link](https://aclanthology.org/2025.findings-emnlp.860/)\]
 - **\[ACM Trans. Recomm. Syst. 2025\]**: **A Alshabanah**, K Balasubramanian, E Markowitz, G Steeg and M Annavaram, “The Upside of Bias: Personalizing long-tail item recommendations with Biased Sampling” . \[[link](https://dl.acm.org/doi/abs/10.1145/3771279)\]
