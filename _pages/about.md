@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Assistant Professor, Computer Engineering Department, [King Fahd University of Petroleum and Minerals](https://kfupm.edu.sa)
 
 I am a Ph.D. candidate at the University of Southern California (USC) working with [Prof. Murali Annavaram](http://scip-lab.usc.edu/). I work on **machine learning systems** and **applied machine learning**, with a focus on **recommendation systems**. I hold a B.S. in Computer Engineering from King Fahd University of Petroleum and Minerals (KFUPM), an M.S. in Computer Engineering, and an M.S. in Computer Science, both from the University of Southern California (USC).
 
