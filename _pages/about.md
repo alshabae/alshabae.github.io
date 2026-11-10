@@ -6,10 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Assistant Professor, Computer Engineering Department\
+**Assistant Professor, Computer Engineering Department**\
 [King Fahd University of Petroleum and Minerals (KFUPM)](https://kfupm.edu.sa)
 
-Recruiting PhD students for Fall 2027. KFUPM MS and undergraduate students are also welcome. To apply, submit your application through KFUPM Admission ([PhD application information]([https://kfupm.edu.sa](https://cgis.kfupm.edu.sa/apply))). If you are interested in working with me, email alshabae@kfupm.edu.sa with “PhD Fall 2027” in the subject line.
+Recruiting PhD students for **Fall 2027**. KFUPM MS and undergraduate students are also welcome. To apply, submit your application through KFUPM Admission ([PhD application information](https://cgis.kfupm.edu.sa/apply)). If you are interested in working with me, email ([alshabae@kfupm.edu.sa](alshabae@kfupm.edu.sa)) with “PhD Fall 2027” in the subject line.
 
 # About
 
