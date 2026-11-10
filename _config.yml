@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Abdulla Alshabanah Homepage"
 title_separator          : "-"
 name                     : &name "Abdulla Alshabanah"
-description              : &description "PhD candidate @ University of Southern California"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Assistant Professor @ King Fahd University of Petroleum and Minerals"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://alshabae.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "Headshot.jpg"
   name             : "Abdulla Alshabanah"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate @ University of Southern California"
+  bio              : "Assistant Professor @ King Fahd University of Petroleum and Minerals"
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "aalshaba@usc.edu" 
+  email            : "alshabae@kfupm.edu.sa" 
 
   # Academic websites
   academia         : # URL
